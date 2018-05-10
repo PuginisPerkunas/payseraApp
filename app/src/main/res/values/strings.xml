@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">PayseraApp</string>
+
+    <string name="SP_KEY">prefs</string>
+    <string name="SP_COMMISSION_OBJECT_KEY">CommissionsObject</string>
+    <string name="SP_MAIN_DATA_OBJECT_KEY">MainDataObject</string>
+    <string name="SP_FIRST_START_KEY">firstStart</string>
+    <string name="CONVERT_LINK">http://api.evp.lt/currency/commercial/exchange/</string>
+
+    <string name="hint">0</string>
+    <string name="text_convert_from">Konvertuoti IS</string>
+    <string name="text_convert_to">Konvertuoti I</string>
+    <string name="text_start">Jusu saskaitos \n BALANSAS </string>
+    <string name="text_convert_btn">KONVERTUOTI</string>
+    <string name="text_commission_btn">KOMISINIU ISTORIJA</string>
+    
+    <string name="text_convert_not_available">Informacija nepasiekema</string>
+    <string name="text_convert">Konvertuoti</string>
+    <string name="text_to"> I </string>
+    <string name="text_commissions_free_part_one">Komisiniai nekainuos, nes dar turite</string>
+    <string name="text_commissions_free_part_two">nemokamus kartus</string>
+    <string name="text_commissions_coast">Komisiniai kainuos:</string>
+    <string name="text_confirm">SUTINKU</string>
+    <string name="text_delcine">NESUTINKU</string>
+    <string name="text_again">DAR KART</string>
+    <string name="text_balance">SASKAITA</string>
+    <string name="text_try_again">DARKART</string>
+    <string name="text_dismiss">BANDYTI VEL</string>
+    <string name="text_in_your_balance">Jusu saskaitoje yra: </string>
+    <string name="text_not_enough">Nepakanka pinigu!</string>
+    <string name="text_mistake">Ivyko klaida!</string>
+    <string name="text_mistake_explain">Ivyko klaida!</string>
+    <string name="text_operation_success">Operacija ivygdyta sekmingai!</string>
+    <string name="text_succ_converted_to">sekmingai konvertuoti i</string>
+    <string name="wrong_value">Neteisinga suma</string>
+    <string name="text_select_different_curr">Pasirinkite skirtinga valiuta</string>
+    <string name="text_converted">Konvertuota:</string>
+    <string name="text_get">Gauta:</string>
+    <string name="text_commissions_price">Komisiniu kaina: </string>
+
+
+    <string name="text_amount_to_convert"> Suma KONVERTAVIMUI: </string>
+    <string-array name="currency_array">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>JPY</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal_text_size_commissions_item">16sp</dimen>
+    <dimen name="big_text_size_commissions">18sp</dimen>
+    <dimen name="normal_text_size_start_activity">18sp</dimen>
+    <dimen name="big_text_size_start_activity">24sp</dimen>
+
+    <dimen name="tv_padding_commissions_item">5dp</dimen>
+    <dimen name="tv_padding_start_activity">5dp</dimen>
+    <dimen name="corner_radius_commission_tem">10dp</dimen>
+    <dimen name="btn_corner_radius">15dp</dimen>
+    <dimen name="stroke_width">1dp</dimen>
+    <dimen name="view_margin">10dp</dimen>
+    <dimen name="button_margin">25dp</dimen>
+    <dimen name="card_view_corners">10dp</dimen>
+    <dimen name="convert_first_text">50dp</dimen>
+
+</resources>
